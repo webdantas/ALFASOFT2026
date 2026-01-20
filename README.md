@@ -11,7 +11,7 @@
 
 1. Clone o repositório:
 	```bash
-	git clone <url-do-repositorio>
+	git clone git@github.com:webdantas/ALFASOFT2026.git
 	cd ALFASOFT2026
 	```
 
